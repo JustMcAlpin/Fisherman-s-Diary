@@ -123,25 +123,3 @@ This project uses SPM (Swift Package Manager) as Dependency manager.
     |   └── SwiftData Model   # SwiftData model for Persistence Storage
     |
     └── Preview Content       # Dummy Data Files for supporting SwiftUI Previews
-
-<a name="contribute"/>
-
-## ✏️ Contribute
-
-If you want to contribute to this project, you're always welcome!
-
-### What you can do
-You can contribute us by filing issues, bugs and PRs.
-
-### Before you do
-Before you open a issue or report a bug, please check if the issue or bug is related to Xcode or SwiftUI.
-
-<a name="contact"/>
-
-## 📱 Contact
-
-Have an project? DM me at 👇
-LinkedIn: <a href="https://www.linkedin.com/in/amanbind/">Aman Bind</a>
-
-Drop a mail to:- amanbind007@gmail.com
-
