@@ -2,7 +2,6 @@
 //  Fish.swift
 //  Fisherman's Keeper
 //
-//  Created by Aman Bind on 18/10/23.
 //
 
 import Foundation
