@@ -2,7 +2,6 @@
 //  Fishbase.swift
 //  Fisherman's Keeper
 //
-//  Created by Aman Bind on 14/10/23.
 //
 
 import Combine
