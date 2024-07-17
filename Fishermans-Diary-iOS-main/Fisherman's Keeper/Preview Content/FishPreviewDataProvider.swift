@@ -2,7 +2,6 @@
 //  FishPreviewDataProvider.swift
 //  Fisherman's Keeper
 //
-//  Created by Aman Bind on 23/10/23.
 //
 
 import Foundation
