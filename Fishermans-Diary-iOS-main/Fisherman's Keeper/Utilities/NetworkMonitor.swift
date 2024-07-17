@@ -2,7 +2,6 @@
 //  NetworkMonitor.swift
 //  Fisherman's Keeper
 //
-//  Created by Aman Bind on 10/11/23.
 //
 
 import Foundation
